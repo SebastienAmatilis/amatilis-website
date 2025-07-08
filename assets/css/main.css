@@ -3333,16 +3333,19 @@ input, select, textarea {
 			}
 
 		/* One */
-
+			/* SB_change removed */
+			/*
 			#one {
-				text-align: center;
-			}
+				text-align: center; 
+
+			}*/
 
 		/* Two */
-
+		/* SB_change removed */
+		/*
 			#two {
 				text-align: center;
-			}
+			}*/
 
 	}
 
